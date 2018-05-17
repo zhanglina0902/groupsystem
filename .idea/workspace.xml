@@ -2,7 +2,132 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e847c165-489f-4246-a227-114b309b6117" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/0eabb73e384f43a9849f1b2f7d5a9be8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/2b8e16d894714afabb555b3c45002011.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/4554903e820a41fb8f1568d34dc301a8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/b5a4e517a36b4311b9b477c1c256e720.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bb2b1f58fb124a58bef4b3e83e907ff3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/c1ec57e42beb42369656605b8e67e1dc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/f203575dd38b4601847c5b71dde1ff66.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/github.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/ionicons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/jquery.datatables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/jquery.steps.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/medium-editor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/morris.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/perfect-scrollbar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/rickshaw.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/select2.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/spectrum.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/spinkit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/starlight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/summernote-bs4.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/57tq-anwthzketeio4jesc3usbnsvpkopqaur-2r7iu.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/a-dxaabccxvlyovde3banq.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/aka3imrnyyfky4mbs09paw.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/bypm-ge291zjixbwrtcwetiz6ofpbzzpr7luegmid8k.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/d-6iyplofoccackzxwxsokcwcynf_cdxxwclxiixg1c.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/d2gn9uyz9ucx1fj1fhb7sy3usbnsvpkopqaur-2r7iu.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/dugpdsljmotoczor2citoonf5ufddttmlvmwujdhhgs.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/dvlfbscy1r-fmtzsyiyoyw.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ejsrzdkquqcdwsbtlpcvqacwcynf_cdxxwclxiixg1c.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/gsroz960_sk2fwhd1d3cuw.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/h2qtvyrsha1cfy63p7ykz4nf5ufddttmlvmwujdhhgs.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/hgo13k-tfspn0qi1sfdufacwcynf_cdxxwclxiixg1c.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ionicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ionicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ionicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ionicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/iqhow_feyldc4gzy_m8fcver6hm6rms0v1dtxsgir4g.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/iveh6a3mifyaseiudumxe-lrc4du4e_yftj8ol60xk0.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/nj47maze0myuiysgfn0wpq.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/nz5dxqayxaglfhmmjlzxfg.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ovjffui0qshj4pjw8a52ha.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/q2oimsatxekoullqvdsl07h9hbnnhk4rjzvmanoh7ky.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/rxzjdnzeo3r5zsexge8uuacwcynf_cdxxwclxiixg1c.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/summernote.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/summernote.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/summernote.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/tdtjch39jjvycif24tlo-q.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/tphesjuyxiezwtby22btfonf5ufddttmlvmwujdhhgs.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/v0sdcgfal2aezm9vq_aftq.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/vtbnrk42eiobncvyqxz7j4nf5ufddttmlvmwujdhhgs.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/wjsqk3e245pkdhdhys7mabgp_8dgdh0ujybw4dyg-cuxsxsoytwiawm41ikuc6g0.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ynpq02vhjlzawszhjoqf050eavxt0g0bientp43qt6e.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/yqwaod4inu5nty0apn-qjy3usbnsvpkopqaur-2r7iu.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/zhcz-_wihjsqc0ohj9tcyc3usbnsvpkopqaur-2r7iu.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/zm2u8v3cupvwaaxfqcdi4inf5ufddttmlvmwujdhhgs.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/zn7gbfwfmp4ua6ar0hcolq.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/zo07oxe3solw0l2yx2sdis3usbnsvpkopqaur-2r7iu.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/chart.chartjs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/chart.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/chart.morris.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/chart.rickshaw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/chart.sparkline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/d3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/dashboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/datatables.responsive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/gmaps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/highlight.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.datatables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.flot.pie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.flot.resize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.flot.spline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.sparkline.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.steps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.vmap.canada.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.vmap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.vmap.sampledata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.vmap.usa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.vmap.world.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/map.apple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/map.bluewater.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/map.mapbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/map.shadesofgray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/map.shiftworker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/medium-editor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/morris.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/parsley.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/perfect-scrollbar.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/popper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/raphael.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/resizesensor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/rickshaw.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/select2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/spectrum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/starlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/summernote-bs4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/widgets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/picture/img9.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="5af40dfb7a589.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,14 +148,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4045977">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-10.15">
+              <caret line="552" column="0" selection-start-line="552" selection-start-column="0" selection-end-line="552" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="starlight.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/asset/css/starlight.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42988506">
+              <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -44,7 +177,24 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/asset/css/style.css" />
+        <option value="$PROJECT_DIR$/asset/css/plugins/font-awesome.css" />
+        <option value="$PROJECT_DIR$/asset/css/plugins/2b8e16d894714afabb555b3c45002011.css" />
+        <option value="$PROJECT_DIR$/asset/css/plugins/4554903e820a41fb8f1568d34dc301a8.css" />
+        <option value="$PROJECT_DIR$/asset/css/plugins/b5a4e517a36b4311b9b477c1c256e720.css" />
+        <option value="$PROJECT_DIR$/asset/css/plugins/bb2b1f58fb124a58bef4b3e83e907ff3.css" />
+        <option value="$PROJECT_DIR$/asset/css/plugins/c1ec57e42beb42369656605b8e67e1dc.css" />
+        <option value="$PROJECT_DIR$/asset/css/plugins/f203575dd38b4601847c5b71dde1ff66.css" />
+        <option value="$PROJECT_DIR$/asset/css/plugins/0eabb73e384f43a9849f1b2f7d5a9be8.css" />
+        <option value="$PROJECT_DIR$/asset/plugins/0eabb73e384f43a9849f1b2f7d5a9be8.css" />
+        <option value="$PROJECT_DIR$/asset/plugins/2b8e16d894714afabb555b3c45002011.css" />
+        <option value="$PROJECT_DIR$/asset/plugins/4554903e820a41fb8f1568d34dc301a8.css" />
+        <option value="$PROJECT_DIR$/asset/plugins/b5a4e517a36b4311b9b477c1c256e720.css" />
+        <option value="$PROJECT_DIR$/asset/plugins/bb2b1f58fb124a58bef4b3e83e907ff3.css" />
+        <option value="$PROJECT_DIR$/asset/plugins/c1ec57e42beb42369656605b8e67e1dc.css" />
+        <option value="$PROJECT_DIR$/asset/plugins/f203575dd38b4601847c5b71dde1ff66.css" />
+        <option value="$PROJECT_DIR$/asset/plugins/font-awesome.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/asset/css/starlight.css" />
       </list>
     </option>
   </component>
@@ -84,6 +234,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -137,7 +288,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,6 +296,52 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\安装软件\node\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -190,14 +386,20 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asset/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/plugins/default.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -205,21 +407,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asset/css/style.css">
+    <entry file="file://$PROJECT_DIR$/asset/plugins/summernote-bs4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47931033">
-          <caret line="3371" column="13" selection-start-line="3371" selection-start-column="13" selection-end-line="3371" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#8095#8352#1" expanded="false" />
+            <element signature="e#8649#8906#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/plugins/spectrum.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/plugins/f203575dd38b4601847c5b71dde1ff66.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70804596">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/plugins/c1ec57e42beb42369656605b8e67e1dc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70804596">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/plugins/bb2b1f58fb124a58bef4b3e83e907ff3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8333333">
+          <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/plugins/b5a4e517a36b4311b9b477c1c256e720.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4045977">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/plugins/4554903e820a41fb8f1568d34dc301a8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70804596">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/plugins/2b8e16d894714afabb555b3c45002011.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.101149425">
+          <caret line="4" column="100" selection-start-line="4" selection-start-column="100" selection-end-line="4" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/plugins/0eabb73e384f43a9849f1b2f7d5a9be8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55632186">
+          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/plugins/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7126436">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4045977">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-10.15">
+          <caret line="552" column="0" selection-start-line="552" selection-start-column="0" selection-end-line="552" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asset/css/starlight.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42988506">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
